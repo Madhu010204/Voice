@@ -1,0 +1,13 @@
+# Core dependencies for Parkinson's Voice Analysis Streamlit App
+streamlit>=1.46.0
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Audio processing and voice analysis
+praat-parselmouth>=0.4.3
+
+# Visualization
+plotly>=5.15.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
